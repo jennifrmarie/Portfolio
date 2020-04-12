@@ -1,0 +1,10 @@
+.App__main {
+  background-color: black;
+  height: calc(90vh + 10vh);
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+  height: 100vh;
+  background-color: black;
+}
